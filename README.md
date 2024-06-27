@@ -1,5 +1,6 @@
 <!-- Title -->
 <!-- https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif -->
+<img src="https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif" />
 <h1 align="center">Hi 👋, I'm Vikrant Tiwari</h1>
 
 <!-- Summary -->
@@ -7,6 +8,11 @@
 
 <!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingcrusher9764&label=Profile%20views&color=0e75b6&style=flat" alt="kingcrusher9764" /> </p>
+
+<!-- Gif section -->
+<!-- gif1: https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220929133147/Why-you-should-use-framework-in-programming.gif -->
+<!-- gif2: https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif -->
+<img  align="right" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220929133147/Why-you-should-use-framework-in-programming.gif"  alt="GIF" width="500" />
 
 <!-- Connect section -->
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +39,7 @@
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <!-- Express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color:white; border-radius:50%; padding:10px;" /> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <!-- HTML5 -->
@@ -57,11 +63,14 @@
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<!-- Padding section -->
+<p height="100" width="100" ></p>
+
 <!-- Languages used section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingcrusher9764&show_icons=true&locale=en&layout=compact" alt="kingcrusher9764" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingcrusher9764&show_icons=true&locale=en&layout=compact&theme=dark" alt="kingcrusher9764" /></p>
 
 <!-- Stats section -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcrusher9764&show_icons=true&locale=en" alt="kingcrusher9764" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcrusher9764&show_icons=true&locale=en&theme=dark" alt="kingcrusher9764" /></p>
 
 <!-- Streak section -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingcrusher9764&" alt="kingcrusher9764" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingcrusher9764&theme=dark&" alt="kingcrusher9764" /></p>
